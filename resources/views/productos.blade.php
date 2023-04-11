@@ -15,6 +15,7 @@
             <div class="row">
                 <div class="col">
     <h1>Hello, world!</h1>
+    <a href="{{route('productoinsertar2')}}" class="btn btn-primary">Ir a insertar</a>
 
 
 
